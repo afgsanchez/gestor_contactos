@@ -72,7 +72,7 @@ Este proyecto es una aplicaci√≥n cliente-servidor para gestionar contactos. Est√
 
 1. Clona el repositorio:
    ```sh
-   git clone https://github.com/tu_usuario/gestor_contactos.git
+   git clone https://github.com/afgsanchez/gestor_contactos.git
    ```
 2. Navega al directorio del proyecto:
    ```sh
